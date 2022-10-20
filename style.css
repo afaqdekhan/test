@@ -1,0 +1,50 @@
+
+.homeSection{
+    background-image: url(./is-civil-engineering-a-good-degree.jpg);
+    background-repeat: no-repeat;
+    background-size: 100%;
+    background-position: center;
+    height: 100vh;
+}
+
+.homeSection hr{
+    width: 7%;
+    border: yellow 0.05px solid;
+    margin: 0;
+}
+.overlay{
+    background-color: rgba(40, 43, 44, 0.5);
+}
+.section1 header{
+    color: white;
+    padding: 250px 90px;
+}
+.section h2{
+    color: yellow;
+    padding-top: 5px 5px 0 5px;
+    text-transform: uppercase;
+    text-align: center;
+    margin-bottom: 2px;
+}
+.section1 h1{
+    color: white;
+    font-size: 40px;
+    margin-top: 25px;
+}
+.section1 header button{
+    text-align: left;
+}
+.btn{
+    text-transform:uppercase ;
+    border: 2px solid white;
+    width: 10%;
+    padding: 9px;
+    cursor: pointer;
+    background-color: transparent;
+    color: white;
+    font-size: 10px;
+    text-align: center;
+}
+.btn-btg{
+    background-color: rgba(40, 43, 44, 0.7);
+}
